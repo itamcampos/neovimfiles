@@ -10,7 +10,7 @@ If you already have custom settings for Neovim, it is likely that the settings i
 
 ## Currently installed plugins:
 
-- [One Dark](https://github.com/navarasu/onedark.nvim) is the currently active color scheme.
+- [One Dark](https://github.com/navarasu/onedark.nvim) is the currently active color scheme. Dark and Light Themes for neovim >= 0.5 based on Atom One Dark & Atom One Light theme written in lua with TreeSitter syntax highlight.
 
 - [Fern](https://github.com/lambdalisue/vim-fern), pronounced "furn", is a general-purpose asynchronous tree viewer written in pure Vim script.
 
